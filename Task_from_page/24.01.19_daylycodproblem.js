@@ -34,9 +34,10 @@ let func2 = (n, m) => {
   };
   
   for (let item of m) {
-    // let sum;
-    // return sum += func2(n - item);
+    let sum;
     console.log(item);
+    return sum += func2(n - item);
+    
     // console.log(sum);
   };
 };

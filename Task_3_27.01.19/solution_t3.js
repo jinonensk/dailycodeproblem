@@ -107,10 +107,10 @@ let newArr = deserialize(testStringArr);
 let newObj = deserialize(testStringObj)
 
 
-// console.log(arr);
-// console.log(testStringArr);
-// console.log(newArr);
+console.log(arr);
+console.log(testStringArr);
+console.log(newArr);
 
-console.log(obj);
-console.log(testStringObj);
-console.log(newObj);
+// console.log(obj);
+// console.log(testStringObj);
+// console.log(newObj);
